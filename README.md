@@ -1,0 +1,2 @@
+# Obsidian
+Automatic file sorting
